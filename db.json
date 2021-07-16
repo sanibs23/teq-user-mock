@@ -1,7 +1,9 @@
 {
-  "cover_image":"https://teq-dev-static.s3.amazonaws.com/frontend/static/main/media/misc/head_bg_sm.jpg",
-  "locale":"",
-  "profile_image":"https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/fox.jpg",
-  "user_email":"admin@mail.com",
-  "user_name":"Admin"
+ "data":{
+   "cover_image":"https://teq-dev-static.s3.amazonaws.com/frontend/static/main/media/misc/head_bg_sm.jpg",
+    "locale":"",
+    "profile_image":"https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/fox.jpg",
+    "user_email":"admin@mail.com",
+    "user_name":"Admin" 
+ }
 }
