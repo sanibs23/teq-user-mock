@@ -5,9 +5,9 @@
     "profile_image":"https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/fox.jpg",
     "user_email":"admin@mail.com",
     "user_name":"Admin",
-    "company_id": "string";
-  "company_name": "string";
-  "company_url": "string";
-  "employee_id": "string";
+    "company_id": "string",
+  "company_name": "string",
+  "company_url": "string",
+  "employee_id": "string"
  }
 }
